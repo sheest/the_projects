@@ -1,0 +1,6 @@
+dbname: mydb 
+user: user 
+password: password 
+host: localhost
+port: 5432
+dbtableprefix: "public." 
