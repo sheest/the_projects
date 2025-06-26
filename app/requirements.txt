@@ -1,0 +1,5 @@
+psycopg2-binary
+pandas
+pyyaml
+beautifulsoup4
+python-dotenv
